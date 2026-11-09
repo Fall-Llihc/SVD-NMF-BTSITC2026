@@ -1,1 +1,0 @@
-Letakkan ratings.dat, users.dat, dan movies.dat dari ml-1m.zip (GroupLens) di folder ini.
