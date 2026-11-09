@@ -1,0 +1,27 @@
+{
+ "k": 50,
+ "seed": 42,
+ "split": "80:20 seed 42 (baseline)",
+ "models": {
+  "SVD": {
+   "MAE": 0.6863039776684458,
+   "gap_gender": 0.03905082980785379,
+   "dp_g": 0.0020099171162513696,
+   "MAE_baseline": 0.6863039776684458,
+   "gap_gender_baseline": 0.03905082980785368,
+   "dp_g_baseline": 0.0020099171162513696,
+   "abs_diff_MAE": 0.0
+  },
+  "NMF": {
+   "MAE": 0.7814475493414109,
+   "gap_gender": 0.026852520978807748,
+   "dp_g": 0.03090020957094608,
+   "MAE_baseline": 0.781447549341411,
+   "gap_gender_baseline": 0.026852520978807637,
+   "dp_g_baseline": 0.03090020957094608,
+   "abs_diff_MAE": 1.1102230246251565e-16
+  }
+ },
+ "available": true,
+ "identical": true
+}

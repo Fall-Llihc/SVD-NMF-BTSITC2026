@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+nbconvert
+scikit-surprise==1.1.5

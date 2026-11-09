@@ -1,0 +1,17 @@
+name: biasrs-v3
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - notebook
+  - ipykernel
+  - nbconvert
+  - nbformat
+  - scikit-surprise=1.1.5
